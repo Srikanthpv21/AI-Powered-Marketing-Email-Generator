@@ -6,4 +6,4 @@ This is a simple Streamlit project that generates personalized marketing emails 
 ## 🔧 Built With
 - Python
 - Streamlit
-
+Check how it looks: https://ai-powered-marketing-email-generator-srikanthpv.streamlit.app/
